@@ -110,7 +110,7 @@ Contributions welcome! Please read the [contribution guidelines](#contributing) 
 - [SEM Samurai](https://www.semsamurai.com/) - Bulk 301-redirect mapping for website migrations. SEM Samurai allows SEOs and developers to accurately match thousands of URLs in minutes to preserve link equity, reduce manual errors and save hours of manual work.
 - [EdgeComet](https://github.com/edgecomet/engine) - Open-source dynamic rendering engine that makes JavaScript content visible to Google, Bing, and AI bots like ChatGPT and Perplexity. Fixes indexing problems on React, Vue, and Angular sites without requiring code changes or SSR migration.
 - [JSBug](https://jsbug.org/) - Free tool for comparing how a webpage looks with and without JavaScript rendering. Shows what search engines and AI bots actually see on JavaScript-heavy sites.
-
+- [SEO Audit Tool](https://seo.textools.site) - Free online SEO audit tool that checks 16+ on-page factors — meta tags, headings, images, alt text, schema, performance, social tags, and more. Generates PDF reports. No signup required for basic scans.
 - [SEO Audit Tool](https://seo.textools.site/) - Self-evolving SEO analysis system with 24-point detection matrix. Weekly rule updates from Google Search Central and web.dev, automated fix generation, and optimized HTML output. Free basic scan available.
 
 ## Rank Tracking
